@@ -1,5 +1,5 @@
 # 2026/04/11
-# 알고리즘 분류:
+# 알고리즘 분류: 그래프 이론, 그래프 탐색, BFS, DFS
 
 import sys
 from collections import deque
